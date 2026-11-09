@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T02:38Z",
+ "generated": "2026-11-09T13:32Z",
  "tags": [
   "analysis",
   "architecture",
@@ -75,35 +75,6 @@
    "updated_at": "2026-10-02T21:47Z",
    "screenshot_sha": "b4d3f6e9871c4209",
    "thumb": "ingetrazo_bevel.webp"
-  },
-  {
-   "id": "ingetrazo_kitchen_maker",
-   "version": "1.0.2",
-   "author": "aashishzharbade-arch",
-   "author_url": "https://github.com/aashishzharbade-arch",
-   "license": "GPL-3.0-or-later",
-   "repository": "https://github.com/aashishzharbade-arch/ingetrazo-extensions",
-   "download": "https://raw.githubusercontent.com/aashishzharbade-arch/ingetrazo-extensions/ingetrazo_kitchen_maker-v1.0.2/repository-upload/ingetrazo_kitchen_maker/ingetrazo_kitchen_maker.py",
-   "sha256": "eb2ccb24e0d73da31c8fe2c8e17bd2f2762f0f36bc1f8c330466a4bc52e882e0",
-   "ingetrazo": "0.5.7",
-   "tags": [
-    "architecture",
-    "productivity"
-   ],
-   "screenshot": "ingetrazo_kitchen_maker.png",
-   "name": {
-    "en": "IngeTrazo Kitchen Maker"
-   },
-   "summary": {
-    "en": "Create and edit parametric kitchen cabinets, arrange cabinet runs, and export CSV cost reports.",
-    "es": "Crea y edita muebles de cocina paramétricos, organiza filas de muebles y exporta informes de costos en CSV.",
-    "pt": "Cria e edita armários de cozinha paramétricos, organiza fileiras de armários e exporta relatórios de custos em CSV."
-   },
-   "reviewed": true,
-   "added_at": "2026-10-02T21:47Z",
-   "updated_at": "2026-10-02T21:47Z",
-   "screenshot_sha": "90851888b9d36f34",
-   "thumb": "ingetrazo_kitchen_maker.webp"
   },
   {
    "id": "make_stair",
@@ -2194,6 +2165,35 @@
    "updated_at": "2026-10-04T05:08Z",
    "screenshot_sha": "6f885e9297177cd4",
    "thumb": "ja_units_v2.webp"
+  },
+  {
+   "id": "ingetrazo_kitchen_maker",
+   "version": "1.1.0",
+   "author": "aashishzharbade-arch",
+   "author_url": "https://github.com/aashishzharbade-arch",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/aashishzharbade-arch/ingetrazo-extensions",
+   "download": "https://raw.githubusercontent.com/aashishzharbade-arch/ingetrazo-extensions/ingetrazo_kitchen_maker-v1.1.0/repository-upload/ingetrazo_kitchen_maker/ingetrazo_kitchen_maker.py",
+   "sha256": "6cf1940861c90c25ac5748b113ae0818cafce1ded25e19cbc9f03b37a61300be",
+   "ingetrazo": "0.5.7",
+   "tags": [
+    "architecture",
+    "productivity"
+   ],
+   "screenshot": "ingetrazo_kitchen_maker.png",
+   "name": {
+    "en": "Kitchen Maker V1.1"
+   },
+   "summary": {
+    "en": "Create and edit parametric kitchen cabinets, arrange cabinet runs, and export CSV cost reports.",
+    "es": "Crea y edita muebles de cocina paramétricos, organiza filas de muebles y exporta informes de costos en CSV.",
+    "pt": "Cria e edita armários de cozinha paramétricos, organiza fileiras de armários e exporta relatórios de custos em CSV."
+   },
+   "reviewed": false,
+   "added_at": "2026-10-02T21:47Z",
+   "updated_at": "2026-11-09T13:31Z",
+   "screenshot_sha": "90851888b9d36f34",
+   "thumb": "ingetrazo_kitchen_maker.webp"
   },
   {
    "id": "cleaning",
